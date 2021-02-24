@@ -5,9 +5,8 @@
 ## Skills Revived & Learned:
 
 - Versioning & best coding practices, Git Flow.
-- RUBY Datastructures, features etc.
-- Linter - install & fix errors
-- Collaborative learning, being patient, helping each other succeed.
+- Database and Data manipulation, features etc.
+- Solo learning, being patient, helping each other succeed.
 - Self Monitoring & reliable project deliverables on due time, being focused, accountable.
 - Ability to work independently and ask for help after due self research when needed.
 
