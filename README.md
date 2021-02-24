@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name: SQL Database
+# Project Name: SQL Database & ASSIGNMENT PRACTICE
 
 ## Skills Revived & Learned:
 
