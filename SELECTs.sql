@@ -322,6 +322,7 @@ WHERE
     WHERE
       name = 'Poland'
   )	
+  
 SELECT
   name,
   ROUND(
@@ -357,7 +358,7 @@ SELECT continent, name, area
 FROM world x
 WHERE area >= ALL
   (SELECT area FROM world y
-    WHERE y.continent=x.continent)
+    WHERE y.continent=x.continent);
 
 SELECT
   continent,
